@@ -1,0 +1,7 @@
+{
+  "name": "animate-splash",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
